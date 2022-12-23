@@ -4,7 +4,7 @@ India is one of the most beautiful location . Reveal numerous mystic things rega
 
 
 
-For this project you can any platform in which you cun code html,css and java script and for more information you can see ppt and report.
+For it's code you can any platform in which you can code html,css and java script and for more information you can see ppt and report.
 I have uploaded all file needed for projects
 
 
